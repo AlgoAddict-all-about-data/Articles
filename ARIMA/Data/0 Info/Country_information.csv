@@ -1,0 +1,267 @@
+,Country Name,Country_Code
+0,Aruba,ABW
+1,Africa Eastern and Southern,AFE
+2,Afghanistan,AFG
+3,Africa Western and Central,AFW
+4,Angola,AGO
+5,Albania,ALB
+6,Andorra,AND
+7,Arab World,ARB
+8,United Arab Emirates,ARE
+9,Argentina,ARG
+10,Armenia,ARM
+11,American Samoa,ASM
+12,Antigua and Barbuda,ATG
+13,Australia,AUS
+14,Austria,AUT
+15,Azerbaijan,AZE
+16,Burundi,BDI
+17,Belgium,BEL
+18,Benin,BEN
+19,Burkina Faso,BFA
+20,Bangladesh,BGD
+21,Bulgaria,BGR
+22,Bahrain,BHR
+23,"Bahamas, The",BHS
+24,Bosnia and Herzegovina,BIH
+25,Belarus,BLR
+26,Belize,BLZ
+27,Bermuda,BMU
+28,Bolivia,BOL
+29,Brazil,BRA
+30,Barbados,BRB
+31,Brunei Darussalam,BRN
+32,Bhutan,BTN
+33,Botswana,BWA
+34,Central African Republic,CAF
+35,Canada,CAN
+36,Central Europe and the Baltics,CEB
+37,Switzerland,CHE
+38,Channel Islands,CHI
+39,Chile,CHL
+40,China,CHN
+41,Cote d'Ivoire,CIV
+42,Cameroon,CMR
+43,"Congo, Dem. Rep.",COD
+44,"Congo, Rep.",COG
+45,Colombia,COL
+46,Comoros,COM
+47,Cabo Verde,CPV
+48,Costa Rica,CRI
+49,Caribbean small states,CSS
+50,Cuba,CUB
+51,Curacao,CUW
+52,Cayman Islands,CYM
+53,Cyprus,CYP
+54,Czech Republic,CZE
+55,Germany,DEU
+56,Djibouti,DJI
+57,Dominica,DMA
+58,Denmark,DNK
+59,Dominican Republic,DOM
+60,Algeria,DZA
+61,East Asia & Pacific (excluding high income),EAP
+62,Early-demographic dividend,EAR
+63,East Asia & Pacific,EAS
+64,Europe & Central Asia (excluding high income),ECA
+65,Europe & Central Asia,ECS
+66,Ecuador,ECU
+67,"Egypt, Arab Rep.",EGY
+68,Euro area,EMU
+69,Eritrea,ERI
+70,Spain,ESP
+71,Estonia,EST
+72,Ethiopia,ETH
+73,European Union,EUU
+74,Fragile and conflict affected situations,FCS
+75,Finland,FIN
+76,Fiji,FJI
+77,France,FRA
+78,Faroe Islands,FRO
+79,"Micronesia, Fed. Sts.",FSM
+80,Gabon,GAB
+81,United Kingdom,GBR
+82,Georgia,GEO
+83,Ghana,GHA
+84,Gibraltar,GIB
+85,Guinea,GIN
+86,"Gambia, The",GMB
+87,Guinea-Bissau,GNB
+88,Equatorial Guinea,GNQ
+89,Greece,GRC
+90,Grenada,GRD
+91,Greenland,GRL
+92,Guatemala,GTM
+93,Guam,GUM
+94,Guyana,GUY
+95,High income,HIC
+96,"Hong Kong SAR, China",HKG
+97,Honduras,HND
+98,Heavily indebted poor countries (HIPC),HPC
+99,Croatia,HRV
+100,Haiti,HTI
+101,Hungary,HUN
+102,IBRD only,IBD
+103,IDA & IBRD total,IBT
+104,IDA total,IDA
+105,IDA blend,IDB
+106,Indonesia,IDN
+107,IDA only,IDX
+108,Isle of Man,IMN
+109,India,IND
+110,Not classified,INX
+111,Ireland,IRL
+112,"Iran, Islamic Rep.",IRN
+113,Iraq,IRQ
+114,Iceland,ISL
+115,Israel,ISR
+116,Italy,ITA
+117,Jamaica,JAM
+118,Jordan,JOR
+119,Japan,JPN
+120,Kazakhstan,KAZ
+121,Kenya,KEN
+122,Kyrgyz Republic,KGZ
+123,Cambodia,KHM
+124,Kiribati,KIR
+125,St. Kitts and Nevis,KNA
+126,"Korea, Rep.",KOR
+127,Kuwait,KWT
+128,Latin America & Caribbean (excluding high income),LAC
+129,Lao PDR,LAO
+130,Lebanon,LBN
+131,Liberia,LBR
+132,Libya,LBY
+133,St. Lucia,LCA
+134,Latin America & Caribbean,LCN
+135,Least developed countries: UN classification,LDC
+136,Low income,LIC
+137,Liechtenstein,LIE
+138,Sri Lanka,LKA
+139,Lower middle income,LMC
+140,Low & middle income,LMY
+141,Lesotho,LSO
+142,Late-demographic dividend,LTE
+143,Lithuania,LTU
+144,Luxembourg,LUX
+145,Latvia,LVA
+146,"Macao SAR, China",MAC
+147,St. Martin (French part),MAF
+148,Morocco,MAR
+149,Monaco,MCO
+150,Moldova,MDA
+151,Madagascar,MDG
+152,Maldives,MDV
+153,Middle East & North Africa,MEA
+154,Mexico,MEX
+155,Marshall Islands,MHL
+156,Middle income,MIC
+157,North Macedonia,MKD
+158,Mali,MLI
+159,Malta,MLT
+160,Myanmar,MMR
+161,Middle East & North Africa (excluding high income),MNA
+162,Montenegro,MNE
+163,Mongolia,MNG
+164,Northern Mariana Islands,MNP
+165,Mozambique,MOZ
+166,Mauritania,MRT
+167,Mauritius,MUS
+168,Malawi,MWI
+169,Malaysia,MYS
+170,North America,NAC
+171,Namibia,NAM
+172,New Caledonia,NCL
+173,Niger,NER
+174,Nigeria,NGA
+175,Nicaragua,NIC
+176,Netherlands,NLD
+177,Norway,NOR
+178,Nepal,NPL
+179,Nauru,NRU
+180,New Zealand,NZL
+181,OECD members,OED
+182,Oman,OMN
+183,Other small states,OSS
+184,Pakistan,PAK
+185,Panama,PAN
+186,Peru,PER
+187,Philippines,PHL
+188,Palau,PLW
+189,Papua New Guinea,PNG
+190,Poland,POL
+191,Pre-demographic dividend,PRE
+192,Puerto Rico,PRI
+193,"Korea, Dem. People's Rep.",PRK
+194,Portugal,PRT
+195,Paraguay,PRY
+196,West Bank and Gaza,PSE
+197,Pacific island small states,PSS
+198,Post-demographic dividend,PST
+199,French Polynesia,PYF
+200,Qatar,QAT
+201,Romania,ROU
+202,Russian Federation,RUS
+203,Rwanda,RWA
+204,South Asia,SAS
+205,Saudi Arabia,SAU
+206,Sudan,SDN
+207,Senegal,SEN
+208,Singapore,SGP
+209,Solomon Islands,SLB
+210,Sierra Leone,SLE
+211,El Salvador,SLV
+212,San Marino,SMR
+213,Somalia,SOM
+214,Serbia,SRB
+215,Sub-Saharan Africa (excluding high income),SSA
+216,South Sudan,SSD
+217,Sub-Saharan Africa,SSF
+218,Small states,SST
+219,Sao Tome and Principe,STP
+220,Suriname,SUR
+221,Slovak Republic,SVK
+222,Slovenia,SVN
+223,Sweden,SWE
+224,Eswatini,SWZ
+225,Sint Maarten (Dutch part),SXM
+226,Seychelles,SYC
+227,Syrian Arab Republic,SYR
+228,Turks and Caicos Islands,TCA
+229,Chad,TCD
+230,East Asia & Pacific (IDA & IBRD countries),TEA
+231,Europe & Central Asia (IDA & IBRD countries),TEC
+232,Togo,TGO
+233,Thailand,THA
+234,Tajikistan,TJK
+235,Turkmenistan,TKM
+236,Latin America & the Caribbean (IDA & IBRD countries),TLA
+237,Timor-Leste,TLS
+238,Middle East & North Africa (IDA & IBRD countries),TMN
+239,Tonga,TON
+240,South Asia (IDA & IBRD),TSA
+241,Sub-Saharan Africa (IDA & IBRD countries),TSS
+242,Trinidad and Tobago,TTO
+243,Tunisia,TUN
+244,Turkiye,TUR
+245,Tuvalu,TUV
+246,Tanzania,TZA
+247,Uganda,UGA
+248,Ukraine,UKR
+249,Upper middle income,UMC
+250,Uruguay,URY
+251,United States,USA
+252,Uzbekistan,UZB
+253,St. Vincent and the Grenadines,VCT
+254,"Venezuela, RB",VEN
+255,British Virgin Islands,VGB
+256,Virgin Islands (U.S.),VIR
+257,Vietnam,VNM
+258,Vanuatu,VUT
+259,World,WLD
+260,Samoa,WSM
+261,Kosovo,XKX
+262,"Yemen, Rep.",YEM
+263,South Africa,ZAF
+264,Zambia,ZMB
+265,Zimbabwe,ZWE
